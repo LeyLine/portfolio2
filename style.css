@@ -1,0 +1,10 @@
+.about {
+  background-color:green;
+}
+
+
+@media (max-width: 7000px) { 
+ .about { 
+   height: 726px;
+ } 
+}
